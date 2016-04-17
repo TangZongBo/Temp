@@ -4,8 +4,8 @@ public class Demo {
       public static void main(String[] args) {
 	       Sell t1=new Sell(true);
 	       Sell t2=new Sell(false);
-	       t1.setName("Ã°ÅİÅÅĞò");
-	       t2.setName("¿ìËÙÅÅĞò");
+	       t1.setName("å†’æ³¡æ’åº");
+	       t2.setName("é€‰æ‹©æ’åº");
 	       t1.start();
 	       t2.start();
 	}
